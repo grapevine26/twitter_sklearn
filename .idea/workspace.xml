@@ -248,7 +248,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="586" y="18" width="1192" height="1032" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
